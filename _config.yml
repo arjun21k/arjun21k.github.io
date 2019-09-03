@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Arjun Kashyap"
 title_separator          : "-"
 name                     : &name "Arjun Kashyap"
-description              : &description "Masters student in CS at UW-Madison"
+description              : &description "Ph.D. student in CS at OSU"
 url                      : https://arjun21k.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arjun21k/arjun21k.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Arjun Kashyap"
   avatar           : "DSC_0337.JPG"
-  bio              : "Masters student in CS at UW-Madison"
-  location         : "Madison, WI"
+  bio              : "Ph.D. student in CS at OSU"
+  location         : "Columbus, OH"
   employer         :
   googlescholar    : 
-  email            : "akashyap3@wisc.edu"
+  email            : "kashyap.49@osu.edu"
   uri              :
   bitbucket        :
   codepen          :
