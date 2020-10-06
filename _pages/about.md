@@ -8,6 +8,8 @@ redirect_from:
   - /about.html
 ---
 
+<link rel="stylesheet" type="text/css" media="all" href="assets/css/about_page.css" />
+
 Hello! I'm Arjun, a second year Ph.D. student in the Computer Science department at [The Ohio State University](https://www.osu.edu/){:target="_blank"}. My advisor is [Dr. Xiaoyi Lu](http://web.cse.ohio-state.edu/~lu.932/){:target="_blank"} and my research interests include Virtualization, Cloud Computing, and Storage. The current projects that I am part of are on storage disaggregation and persistent memory.
 
 # News
