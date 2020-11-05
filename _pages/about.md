@@ -17,6 +17,6 @@ Hello! I'm Arjun, a second year Ph.D. student in the Computer Science department
 <table>
   <tr>
     <td>9/21/2020</td>
-    <td>Our work <b>"Impact of Commodity Networks on Storage Disaggregation with NVMe-oF"</b> will appear in International Symposium on Benchmarking, Measuring and Optimizing (<a herf="https://www.benchcouncil.org/bench20/index.html" target="_blank">Bench'20</a>) conference. We evaluated the performance of NVMe-oF over TCP, IPoIB, RoCE, and RDMA transports.</td>
+    <td>Our work <b>"Impact of Commodity Networks on Storage Disaggregation with NVMe-oF"</b> will appear in International Symposium on Benchmarking, Measuring and Optimizing (<a href="https://www.benchcouncil.org/bench20/index.html" target="_blank">Bench'20</a>) conference. We evaluated the performance of NVMe-oF over TCP, IPoIB, RoCE, and RDMA transports.</td>
   </tr>
 </table>
