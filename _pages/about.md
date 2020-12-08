@@ -16,7 +16,20 @@ Hello! I'm Arjun, a second year Ph.D. student in the Computer Science department
 
 <table>
   <tr>
+    <td>12/1/2020</td>
+    <td>Our work <b>"Understanding the Idiosyncrasies of Real Persistent Memory"</b> will appear in VLDB'21.</td>
+  </tr>
+  <tr>
     <td>9/21/2020</td>
     <td>Our work <b>"Impact of Commodity Networks on Storage Disaggregation with NVMe-oF"</b> will appear in International Symposium on Benchmarking, Measuring and Optimizing (<a href="https://www.benchcouncil.org/bench20/index.html" target="_blank">Bench'20</a>) conference. We evaluated the performance of NVMe-oF over TCP, IPoIB, RoCE, and RDMA transports.</td>
   </tr>
 </table>
+
+# Publications
+1. [VLDB'21] *Understanding the Idiosyncrasies of Real Persistent Memory*  
+   Shashank Gugnani, **Arjun Kashyap**, and Xiaoyi Lu  
+   International Conference on Very Large Data Bases (VLDB'21), Aug 2021  
+   
+2. [Bench'20] *Impact of Commodity Networks on Storage Disaggregation with NVMe-oF*  
+   **Arjun Kashyap**, Shashank Gugnani, and Xiaoyi Lu  
+   International Symposium on Benchmarking, Measuring and Optimizing (Bench'20), Nov 2020  
