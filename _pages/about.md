@@ -26,10 +26,10 @@ Hello! I'm Arjun, a second year Ph.D. student in the Computer Science department
 </table>
 
 # Publications
-1. [VLDB'21] *Understanding the Idiosyncrasies of Real Persistent Memory*  
+1. [VLDB'21] <span style="color:blue">Understanding the Idiosyncrasies of Real Persistent Memory</span>  
    Shashank Gugnani, **Arjun Kashyap**, and Xiaoyi Lu  
-   International Conference on Very Large Data Bases (VLDB'21), Aug 2021  
+   *International Conference on Very Large Data Bases (VLDB'21), Aug 2021*  
    
-2. [Bench'20] *Impact of Commodity Networks on Storage Disaggregation with NVMe-oF*  
+2. [Bench'20] <span style="color:blue">Impact of Commodity Networks on Storage Disaggregation with NVMe-oF</span>  
    **Arjun Kashyap**, Shashank Gugnani, and Xiaoyi Lu  
-   International Symposium on Benchmarking, Measuring and Optimizing (Bench'20), Nov 2020  
+   *International Symposium on Benchmarking, Measuring and Optimizing (Bench'20), Nov 2020*  
