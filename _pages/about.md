@@ -34,4 +34,4 @@ Hello! I'm Arjun, a second year Ph.D. student in the Computer Science department
 2. [Bench'20] <span style="color:#0080ff">Impact of Commodity Networks on Storage Disaggregation with NVMe-oF</span>  
    **Arjun Kashyap**, Shashank Gugnani, and Xiaoyi Lu  
    *International Symposium on Benchmarking, Measuring and Optimizing (Bench'20), Nov 2020*  
-   [[Video]](https://www.youtube.com/watch?v=4K17ED9OMmU&ab_channel=Bench%2720)
+   [[Video]](https://www.youtube.com/watch?v=4K17ED9OMmU&ab_channel=Bench%2720){:target="_blank"}
