@@ -10,7 +10,7 @@ redirect_from:
 
 <link rel="stylesheet" type="text/css" media="all" href="assets/css/about_page.css" />
 
-Hello! I'm Arjun, a second year Ph.D. student in the Computer Science department at University of California, Merced. My advisor is [Xiaoyi Lu](https://sites.ucmerced.edu/luxi){:target="_blank"} and my research interests include Virtualization, Cloud Computing, and Storage. Previously (2019-2020), I was a Ph.D. student at the Ohio State University (OSU). The current projects that I am part of are on storage disaggregation and persistent memory.
+Hello! I'm Arjun, a second year Ph.D. student in the Computer Science department at University of California, Merced. My advisor is [Prof. Xiaoyi Lu](https://sites.ucmerced.edu/luxi){:target="_blank"} and my research interests include Virtualization, Cloud Computing, and Storage. Previously (2019-2020), I was a Ph.D. student at the Ohio State University (OSU). The current projects that I am part of are on storage disaggregation and persistent memory.
 
 # News
 
