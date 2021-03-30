@@ -17,7 +17,7 @@ Hello! I'm Arjun, a second year Ph.D. student in the Computer Science department
 <table>
   <tr>
     <td>03/29/2021</td>
-    <td>Our paper <b>Towards Offloadable and Migratable Microservices on Disaggregated Architectures: Vision, Challenges, and Research Roadmap</b> got accepted in WORDS'21 (co-located with ASPLOS'21)</td>
+    <td>Our paper <b>Towards Offloadable and Migratable Microservices on Disaggregated Architectures: Vision, Challenges, and Research Roadmap</b> got accepted in WORDS'21 (co-located with ASPLOS'21).</td>
   </tr>
   <tr>
     <td>12/1/2020</td>
