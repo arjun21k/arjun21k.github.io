@@ -31,8 +31,8 @@ Hello! I'm Arjun, a second year Ph.D. student in the Computer Science department
 
 # Publications
 1. [WORDS'21] <span style="color:#0080ff">Towards Offloadable and Migratable Microservices on Disaggregated Architectures: Vision, Challenges, and Research Roadmap</span>  
-   Xiaoyi Lu  and **Arjun Kashyap**
-   *The Second Workshop On Resource Disaggregation and Serverless (WORDS 2021), April 2021*  
+   Xiaoyi Lu  and **Arjun Kashyap**  
+   *The Second Workshop On Resource Disaggregation and Serverless (WORDS'21), April 2021*  
    [[Paper]](https://wuklab.github.io/words/words21-lu.pdf){:target="_blank"}
 
 2. [VLDB'21] <span style="color:#0080ff">Understanding the Idiosyncrasies of Real Persistent Memory</span>  
