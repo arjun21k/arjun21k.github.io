@@ -15,6 +15,10 @@ Hello! I'm Arjun, a third year Ph.D. student in the Computer Science department 
 # News
 
 <table>
+    <tr>
+    <td>03/29/2022</td>
+    <td>Our paper <b>NVMe-oAF: Towards Adaptive NVMe-oF for IO-Intensive Workloads on HPC Cloud</b> got accepted in HPDC'22.</td>
+  </tr>
   <tr>
     <td>03/29/2021</td>
     <td>Our paper <b>Towards Offloadable and Migratable Microservices on Disaggregated Architectures: Vision, Challenges, and Research Roadmap</b> got accepted in WORDS'21 (co-located with ASPLOS'21).</td>
@@ -30,17 +34,21 @@ Hello! I'm Arjun, a third year Ph.D. student in the Computer Science department 
 </table>
 
 # Publications
-1. [WORDS'21] <span style="color:#0080ff">Towards Offloadable and Migratable Microservices on Disaggregated Architectures: Vision, Challenges, and Research Roadmap</span>  
+1. [HPDC'22] <span style="color:#0080ff">NVMe-oAF: Towards Adaptive NVMe-oF for IO-Intensive Workloads on HPC Cloud</span>  
+   **Arjun Kashyap** and Xiaoyi Lu  
+   *International ACM Symposium on High Performance and Distributed Computing (HPDC'22), June 2022*  
+
+2. [WORDS'21] <span style="color:#0080ff">Towards Offloadable and Migratable Microservices on Disaggregated Architectures: Vision, Challenges, and Research Roadmap</span>  
    Xiaoyi Lu  and **Arjun Kashyap**  
    *The Second Workshop On Resource Disaggregation and Serverless (WORDS'21), April 2021*  
    [[Paper]](https://arxiv.org/pdf/2104.11272.pdf){:target="_blank"}
 
-2. [VLDB'21] <span style="color:#0080ff">Understanding the Idiosyncrasies of Real Persistent Memory</span>  
+3. [VLDB'21] <span style="color:#0080ff">Understanding the Idiosyncrasies of Real Persistent Memory</span>  
    Shashank Gugnani, **Arjun Kashyap**, and Xiaoyi Lu  
    *International Conference on Very Large Data Bases (VLDB'21), Aug 2021*  
    [[Paper]](https://dl.acm.org/doi/pdf/10.14778/3436905.3436921){:target="_blank"}  [[Code]](https://github.com/padsys/PMIdioBench){:target="_blank"}
    
-3. [Bench'20] <span style="color:#0080ff">Impact of Commodity Networks on Storage Disaggregation with NVMe-oF</span>  
+4. [Bench'20] <span style="color:#0080ff">Impact of Commodity Networks on Storage Disaggregation with NVMe-oF</span>  
    **Arjun Kashyap**, Shashank Gugnani, and Xiaoyi Lu  
    *International Symposium on Benchmarking, Measuring and Optimizing (Bench'20), Nov 2020*  
    [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-71058-3_3){:target="_blank"}  [[Video]](https://www.youtube.com/watch?v=4K17ED9OMmU&ab_channel=Bench%2720){:target="_blank"}
