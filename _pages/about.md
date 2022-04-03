@@ -17,7 +17,7 @@ Hello! I'm Arjun, a third year Ph.D. student in the Computer Science department 
 <table>
     <tr>
     <td>03/29/2022</td>
-    <td>Our paper <b>NVMe-oAF: Towards Adaptive NVMe-oF for IO-Intensive Workloads on HPC Cloud</b> got accepted in HPDC'22.</td>
+    <td>Our paper <b>NVMe-oAF: Towards Adaptive NVMe-oF for IO-Intensive Workloads on HPC Cloud</b> will appear in HPDC'22.</td>
   </tr>
   <tr>
     <td>03/29/2021</td>
