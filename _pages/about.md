@@ -37,6 +37,7 @@ Hello! I'm Arjun, a third year Ph.D. student in the Computer Science department 
 1. [HPDC'22] <span style="color:#00008B">NVMe-oAF: Towards Adaptive NVMe-oF for IO-Intensive Workloads on HPC Cloud</span>  
    **Arjun Kashyap** and Xiaoyi Lu  
    *International ACM Symposium on High Performance and Distributed Computing (HPDC'22), June 2022*  
+   [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3502181.3531476){:target="_blank"}
 
 2. [WORDS'21] <span style="color:#00008B">Towards Offloadable and Migratable Microservices on Disaggregated Architectures: Vision, Challenges, and Research Roadmap</span>  
    Xiaoyi Lu  and **Arjun Kashyap**  
