@@ -10,7 +10,7 @@ redirect_from:
 
 <link rel="stylesheet" type="text/css" media="all" href="assets/css/about_page.css" />
 
-Hello! I'm Arjun, a third year Ph.D. student in the Computer Science department at University of California, Merced. I am fortunate to be advised by Prof. [Xiaoyi Lu](https://sites.ucmerced.edu/luxi){:target="_blank"} and my research interests include virtualization, cloud computing, and storage systems. Currently, I am working on projects related to storage disaggregation and persistent memory.
+Hello! I'm Arjun, a third-year Ph.D. student in the Computer Science department at the University of California, Merced. I am fortunate to be advised by Prof. [Xiaoyi Lu](https://sites.ucmerced.edu/luxi){:target="_blank"} and my research interests include virtualization, cloud computing, and storage systems. Currently, I am working on projects related to storage disaggregation and persistent memory.
 
 # News
 
@@ -34,7 +34,7 @@ Hello! I'm Arjun, a third year Ph.D. student in the Computer Science department 
 </table>
 
 # Publications
-1. [SC'23] <span style="color:#00008B"> (Poster) An Early Case Study with Multi-Tenancy Support in SPDK’s NVMe-over-Fabric Designs</span>  
+1. [SC'23] <span style="color:#00008B">An Early Case Study with Multi-Tenancy Support in SPDK’s NVMe-over-Fabric Designs (Poster)</span>  
    Darren Ng, Charles Parkinson, Andrew Lin, **Arjun Kashyap**, and Xiaoyi Lu    
    *Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC), November 2023* 
 2. [ModSim'23] <span style="color:#00008B">Early Experiences in Modeling Performance Implications of DPU-Offloaded Computation</span>  
