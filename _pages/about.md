@@ -15,6 +15,14 @@ Hello! I'm Arjun, a third-year Ph.D. student in the Computer Science department 
 # News
 
 <table>
+  <tr>
+    <td>04/04/2025</td>
+    <td>Our paper <b>DPU-KV: On the Benefits of DPU Offloading for In-Memory Key-Value Stores at the Edge</b> will appear in HPDC'25.</td>
+  </tr>
+  <tr>
+    <td>03/10/2025</td>
+    <td>Our paper <b>Understanding the Idiosyncrasies of Emerging BlueField DPUs</b> will appear in ICS'25.</td>
+  </tr>
     <tr>
     <td>03/29/2022</td>
     <td>Our paper <b>NVMe-oAF: Towards Adaptive NVMe-oF for IO-Intensive Workloads on HPC Cloud</b> will appear in HPDC'22.</td>
@@ -34,32 +42,51 @@ Hello! I'm Arjun, a third-year Ph.D. student in the Computer Science department 
 </table>
 
 # Publications
-1. [SC'23] <span style="color:#00008B">An Early Case Study with Multi-Tenancy Support in SPDK’s NVMe-over-Fabric Designs (Poster)</span>  
+1. [HPDC'25] <span style="color:#00008B">DPU-KV: On the Benefits of DPU Offloading for In-Memory Key-Value Stores at the Edge</span>  
+   **Arjun Kashyap**, Yuke Li, and Xiaoyi Lu  
+   *International ACM Symposium on High Performance and Distributed Computing (HPDC), July 2025*  
+   (To appear)
+2. [ICS'25] <span style="color:#00008B">Understanding the Idiosyncrasies of Emerging BlueField DPUs”</span>  
+   **Arjun Kashyap**, Yuke Li, Darren Ng, and Xiaoyi Lu  
+   *ACM International Conference on Supercomputing (ICS), June 2025*  
+   (To appear)
+3. [IPDPS'24] <span style="color:#00008B">Accelerating Lossy and Lossless Compression on Emerging BlueField DPU Architectures</span>  
+   Yuke Li, **Arjun Kashyap**, Weicong Chen, Yanfei Guo, and Xiaoyi Lu  
+   *IEEE International Parallel and Distributed Processing Symposium (IPDPS), May 2024*  
+   [[Paper]](https://ieeexplore.ieee.org/document/10579226){:target="_blank"}
+4. [IPDPS'24] <span style="color:#00008B">NVMe-oPF: Designing Efficient Priority Schemes for NVMe-over-Fabrics with Multi-Tenancy Support</span>  
+   Darren Ng, Andrew Lin, **Arjun Kashyap**, Guanpeng Li, and Xiaoyi Lu  
+   *IEEE International Parallel and Distributed Processing Symposium (IPDPS), May 2024*  
+   [[Paper]](https://ieeexplore.ieee.org/document/10579141){:target="_blank"}
+5. [IEEE Micro'24] <span style="color:#00008B">Compression Analysis for BlueField-2/3 DPUs: Lossy and Lossless Perspectives</span>  
+   Yuke Li, **Arjun Kashyap**, Yanfei Guo, and Xiaoyi Lu  
+   [[Paper]](https://ieeexplore.ieee.org/document/10364358){:target="_blank"}
+6. [SC'23] <span style="color:#00008B">An Early Case Study with Multi-Tenancy Support in SPDK’s NVMe-over-Fabric Designs (Poster)</span>  
    Darren Ng, Charles Parkinson, Andrew Lin, **Arjun Kashyap**, and Xiaoyi Lu    
    *Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis (SC), November 2023* 
-2. [ModSim'23] <span style="color:#00008B">Early Experiences in Modeling Performance Implications of DPU-Offloaded Computation</span>  
+7. [ModSim'23] <span style="color:#00008B">Early Experiences in Modeling Performance Implications of DPU-Offloaded Computation</span>  
    Weicong Chen, Yuke Li, **Arjun Kashyap**, and Xiaoyi Lu    
    *Workshop on Modeling & Simulation of Systems and Applications (ModSim), August 2023*  
-3. [HOTI'23] <span style="color:#00008B">Characterizing Lossy and Lossless Compression on Emerging BlueField DPU Architectures</span>  
+8. [HOTI'23] <span style="color:#00008B">Characterizing Lossy and Lossless Compression on Emerging BlueField DPU Architectures</span>  
    Yuke Li, **Arjun Kashyap**, Yanfei Guo, and Xiaoyi Lu  
    *IEEE Symposium on High-Performance Interconnects (HOTI), August 2023*  
    [[Paper]](https://ieeexplore.ieee.org/abstract/document/10287290){:target="_blank"}
-4. [HPDC'22] <span style="color:#00008B">NVMe-oAF: Towards Adaptive NVMe-oF for IO-Intensive Workloads on HPC Cloud</span>  
+9. [HPDC'22] <span style="color:#00008B">NVMe-oAF: Towards Adaptive NVMe-oF for IO-Intensive Workloads on HPC Cloud</span>  
    **Arjun Kashyap** and Xiaoyi Lu  
    *International ACM Symposium on High Performance and Distributed Computing (HPDC), June 2022*  
    [[Paper]](https://dl.acm.org/doi/pdf/10.1145/3502181.3531476){:target="_blank"}
 
-5. [WORDS'21] <span style="color:#00008B">Towards Offloadable and Migratable Microservices on Disaggregated Architectures: Vision, Challenges, and Research Roadmap</span>  
+10. [WORDS'21] <span style="color:#00008B">Towards Offloadable and Migratable Microservices on Disaggregated Architectures: Vision, Challenges, and Research Roadmap</span>  
    Xiaoyi Lu  and **Arjun Kashyap**  
    *The Second Workshop On Resource Disaggregation and Serverless (WORDS), April 2021*  
    [[Paper]](https://arxiv.org/pdf/2104.11272.pdf){:target="_blank"}
 
-6. [VLDB'21] <span style="color:#00008B">Understanding the Idiosyncrasies of Real Persistent Memory</span>  
+11. [VLDB'21] <span style="color:#00008B">Understanding the Idiosyncrasies of Real Persistent Memory</span>  
    Shashank Gugnani, **Arjun Kashyap**, and Xiaoyi Lu  
    *International Conference on Very Large Data Bases (VLDB), Aug 2021*  
    [[Paper]](https://dl.acm.org/doi/pdf/10.14778/3436905.3436921){:target="_blank"}  [[Code]](https://github.com/padsys/PMIdioBench){:target="_blank"}
    
-7. [Bench'20] <span style="color:#00008B">Impact of Commodity Networks on Storage Disaggregation with NVMe-oF</span>  
+12. [Bench'20] <span style="color:#00008B">Impact of Commodity Networks on Storage Disaggregation with NVMe-oF</span>  
    **Arjun Kashyap**, Shashank Gugnani, and Xiaoyi Lu  
    *International Symposium on Benchmarking, Measuring and Optimizing (Bench), Nov 2020*  
    [[Paper]](https://link.springer.com/chapter/10.1007/978-3-030-71058-3_3){:target="_blank"}  [[Video]](https://www.youtube.com/watch?v=4K17ED9OMmU&ab_channel=Bench%2720){:target="_blank"}
