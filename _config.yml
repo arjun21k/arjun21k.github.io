@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Arjun Kashyap"
 title_separator          : "-"
 name                     : &name "Arjun Kashyap"
-description              : &description "Ph.D. student in CS at UCM"
+description              : &description "Ph.D. candidate in CS at UCM"
 url                      : https://arjun21k.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "arjun21k/arjun21k.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Arjun Kashyap"
   avatar           : "DSC_0337.JPG"
-  bio              : "Ph.D. student in CS at UCM"
+  bio              : "Ph.D. candidate in CS at UCM"
   location         : "Merced, CA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=KAsm0F4AAAAJ&hl=en"
