@@ -49,7 +49,7 @@ Hello! I'm Arjun, a third-year Ph.D. student in the Computer Science department 
 2. **[ICS'25]** *Understanding the Idiosyncrasies of Emerging BlueField DPUs*  
    <ins>Arjun Kashyap</ins>, Yuke Li, Darren Ng, and Xiaoyi Lu  
    ACM International Conference on Supercomputing (ICS), June 2025  
-   (To appear)
+   [[Paper]](https://hpcrl.github.io/ICS2025-webpage/program/Proceedings_ICS25/ics25-40.pdf){:target="_blank"}  
 3. **[IPDPS'24]** *Accelerating Lossy and Lossless Compression on Emerging BlueField DPU Architectures*  
    Yuke Li, <ins>Arjun Kashyap</ins>, Weicong Chen, Yanfei Guo, and Xiaoyi Lu  
    IEEE International Parallel and Distributed Processing Symposium (IPDPS), May 2024  
